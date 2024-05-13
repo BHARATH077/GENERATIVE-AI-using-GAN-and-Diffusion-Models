@@ -19,8 +19,11 @@ Selecting an appropriate facial dataset is crucial for training robust and effec
 
 ## References
 [1]	H. Chen et al., “Pre-Trained Image Processing Transformer,” Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, pp. 12294–12305, Dec. 2020, doi: 10.1109/CVPR46437.2021.01212.
+
 [2]	H. Zhang et al., “StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks,” Oct. 2017, Accessed: May 07, 2024. [Online]. Available: http://arxiv.org/abs/1710.10916
+
 [3]	J. Ho, A. Jain, and P. Abbeel, “Denoising Diffusion Probabilistic Models,” Adv Neural Inf Process Syst, vol. 2020-December, Jun. 2020, Accessed: May 07, 2024. [Online]. Available: https://arxiv.org/abs/2006.11239v2
+
 [4]	I. J. Goodfellow et al., “Generative Adversarial Nets,” Adv Neural Inf Process Syst, vol. 27, 2014, Accessed: May 07, 2024. [Online]. Available: http://www.github.com/goodfeli/adversarial
 
 
